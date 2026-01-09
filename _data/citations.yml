@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-01-09'
 papers:
   M8MhX1QAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: Conformal Structured Prediction
     year: '2024'
   M8MhX1QAAAAJ:UeHWp8X0CEIC:
-    citations: 1
+    citations: 2
     title: A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions
     year: '2025'
   M8MhX1QAAAAJ:d1gkVwhDpl0C:
