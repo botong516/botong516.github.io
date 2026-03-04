@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-03-04'
 papers:
   M8MhX1QAAAAJ:2osOgNQ5qMEC:
     citations: 7
     title: Conformal Structured Prediction
     year: '2024'
   M8MhX1QAAAAJ:UeHWp8X0CEIC:
-    citations: 2
+    citations: 3
     title: A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions
     year: '2025'
   M8MhX1QAAAAJ:d1gkVwhDpl0C:
@@ -14,10 +14,10 @@ papers:
     title: Does Instruction Tuning Reduce Diversity? A Case Study Using Code Generation
     year: Unknown Year
   M8MhX1QAAAAJ:qjMakFHDy7sC:
-    citations: 1
+    citations: 2
     title: Alignment of large language models with constrained learning
     year: '2025'
   M8MhX1QAAAAJ:u-x6o8ySG0sC:
-    citations: 24
+    citations: 28
     title: Evaluating the diversity and quality of llm generated content
     year: '2025'
