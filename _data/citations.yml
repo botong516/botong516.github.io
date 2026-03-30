@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-03-30'
 papers:
   M8MhX1QAAAAJ:2osOgNQ5qMEC:
     citations: 8
@@ -22,6 +22,6 @@ papers:
     title: Alignment of large language models with constrained learning
     year: '2025'
   M8MhX1QAAAAJ:u-x6o8ySG0sC:
-    citations: 30
+    citations: 31
     title: Evaluating the diversity and quality of llm generated content
     year: '2025'
