@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-17'
 papers:
   M8MhX1QAAAAJ:2osOgNQ5qMEC:
     citations: 10
@@ -13,10 +13,6 @@ papers:
     citations: 4
     title: A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions
     year: '2025'
-  M8MhX1QAAAAJ:d1gkVwhDpl0C:
-    citations: 0
-    title: Does Instruction Tuning Reduce Diversity? A Case Study Using Code Generation
-    year: Unknown Year
   M8MhX1QAAAAJ:qjMakFHDy7sC:
     citations: 3
     title: Alignment of large language models with constrained learning
