@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-05-27'
+  last_updated: '2026-06-29'
 papers:
   M8MhX1QAAAAJ:2osOgNQ5qMEC:
-    citations: 11
+    citations: 12
     title: Conformal Structured Prediction
     year: '2024'
   M8MhX1QAAAAJ:IjCSPb-OGe4C:
-    citations: 2
+    citations: 4
     title: Effective personalized AI tutors via LLM-guided reinforcement learning
     year: '2026'
   M8MhX1QAAAAJ:UeHWp8X0CEIC:
@@ -14,10 +14,10 @@ papers:
     title: A Fast, Reliable, and Secure Programming Language for LLM Agents with Code Actions
     year: '2025'
   M8MhX1QAAAAJ:qjMakFHDy7sC:
-    citations: 6
+    citations: 7
     title: Alignment of large language models with constrained learning
     year: '2025'
   M8MhX1QAAAAJ:u-x6o8ySG0sC:
-    citations: 44
+    citations: 53
     title: Evaluating the diversity and quality of llm generated content
     year: '2025'
